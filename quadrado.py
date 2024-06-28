@@ -1,0 +1,5 @@
+lados = input ("Digite os lados do quadrado: ")
+quantidade = int(lados)
+x =  (4 * quantidade)
+y =  (quantidade * quantidade)
+print("perímetro: ", x , "área: ", y)
